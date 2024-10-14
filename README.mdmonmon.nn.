@@ -9,5 +9,31 @@
 <!---
 appleboy159/appleboy159 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your var camera = window.FontAwesome.icon({ prefix: 'fas', iconName: 'camera' })
-GOELA_DJAWE27
+GOELA_DJAWE27Untuk mengunduh dan mengakses Linux melalui USB, berikut langkah-langkah spesifik yang bisa kamu ikuti:
+
+	1.	Pilih Distribusi Linux:
+Kunjungi situs resmi distribusi Linux yang ingin kamu gunakan. Beberapa pilihan populer:
+	•	Ubuntu: unduh di https://ubuntu.com/download
+	•	Debian: unduh di https://www.debian.org/distrib/
+	•	Fedora: unduh di https://getfedora.org
+Setelah masuk ke situs, cari tombol "Download" dan unduh file ISO. Pilih versi yang cocok (biasanya 64-bit) dan jenisnya (desktop atau server).
+	2.	Buat USB Bootable:
+Kamu perlu alat seperti Rufus (Windows), Etcher (Windows/macOS/Linux), atau UNetbootin.
+	•	Rufus (untuk Windows):
+	•	Download dan buka Rufus dari https://rufus.ie
+	•	Masukkan USB drive (minimal 4GB), lalu pilih file ISO yang kamu unduh.
+	•	Pilih Create a bootable disk using ISO dan klik Start.
+	•	Etcher (untuk macOS/Linux):
+	•	Download dari https://www.balena.io/etcher/
+	•	Buka Etcher, pilih file ISO dan USB drive, lalu klik Flash.
+	3.	Boot dari USB:
+Setelah USB bootable siap:
+	•	Restart komputer dan tekan tombol khusus untuk masuk ke BIOS/UEFI (biasanya F2, F12, Delete, atau Esc tergantung model komputermu).
+	•	Ubah urutan boot di BIOS agar komputer memulai dari USB.
+	•	Simpan dan keluar dari BIOS. Komputer akan booting dari USB.
+	4.	Jalankan Linux atau Install:
+	•	Setelah booting dari USB, kamu akan melihat opsi untuk menjalankan Live Session. Ini memungkinkan kamu mencoba Linux tanpa menginstal.
+	•	Jika kamu ingin menginstal Linux, pilih opsi Install, lalu ikuti instruksi instalasi (pilih bahasa, zona waktu, buat akun pengguna, dll.).
+
+Apakah ada bagian dari proses ini yang kamu butuhkan panduan lebih lanjut?
 #
